@@ -1,0 +1,9 @@
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\bin\Debug\Stolicihard.exe.config
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\bin\Debug\Stolicihard.exe
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\bin\Debug\Stolicihard.pdb
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.Properties.Resources.resources
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.exe
+C:\Users\MSI\Desktop\bityix\Stolicihard\Stolicihard\obj\Debug\Stolicihard.pdb
